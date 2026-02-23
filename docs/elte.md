@@ -6,7 +6,7 @@
 
 A tárgy célja, hogy a hallgatók a félév során megismerkedjenek különféle optimalizációs feladatok gyakorlati, számítógépes megoldásának lehetőségeivel.
 
-A félév nagy részében egészértékű programozási módszerekkel foglalkozunk: alapvető feladatok (hátizsák feladat, utazóügynök feladat, stb.); alapvető modellezési technikák; vágás-generálás (utazóügynök feladat, gépütemezés, stb.); oszlop-generálás (szabási feladat, stb.); stb. Röviden - pár feladat erejéig - szó lesz még korlátozás programozásról, és lokális keresésen alapuló heurisztikák is előkerülnek majd.
+A félév nagy részében egészértékű programozási módszerekkel foglalkozunk: alapvető feladatok (hátizsák feladat, utazóügynök feladat, stb.); alapvető modellezési technikák; vágás-generálás (utazóügynök feladat, gépütemezés, stb.); oszlop-generálás (ládapakoláso feladat, stb.); Benders-dekompozíció (párhuzamos gépes ütemezés, stb.), stb. Röviden - pár feladat erejéig - szó lesz még korlátozás programozásról, és lokális keresésen alapuló heurisztikák is előkerülnek majd.
 
 A gyakorlatokon a feladatok megoldásához a Python programozási nyelvet használjuk.
 
@@ -45,6 +45,12 @@ Korlátozás programozás: interval variables, non-overlapping constraints.
 <a href="https://github.com/hmarko89/mathoptintro/blob/master/src/rectangle.py" target="_blank">`rectangle.py`</a>
 
 **[4] 2026.02.26.**
+
+Egészértékű programozás: bevezetés.
+
+<a href="https://github.com/hmarko89/mathoptintro/blob/master/src/knapsack.py" target="_blank">`knapsack.py`</a>
+<a href="https://github.com/hmarko89/mathoptintro/blob/master/src/sudoku.py" target="_blank">`sudoku.py`</a>
+<a href="https://github.com/hmarko89/mathoptintro/blob/master/src/queens.py" target="_blank">`queens.py`</a>
 
 **[5] 2026.03.05.**
 
