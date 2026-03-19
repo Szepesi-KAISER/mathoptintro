@@ -80,6 +80,9 @@ Utolsó tanítási nap: 2026. május 16. (szombat)
 **Egészértékű programozás**: Benders dekompozíció egy ütemezési feladatra párhuzamos gépekkel.<br>
 <span style="font-size: 90%; font-style: italic">Benders decomposition</span>
 
+<a href="https://github.com/hmarko89/mathoptintro/blob/master/src/parallelmachines.py" target="_blank">`parallelmachines.py`</a>
+(<a href="https://github.com/hmarko89/mathoptintro/blob/master/src/scheduling_instances.py" target="_blank">`scheduling_instances.py`</a>)
+
 **[8] 2026.03.26.**
 
 **Egészértékű programozás**: oszlopgenerálás a ládapakolási feladatra.<br>
